@@ -2,13 +2,14 @@
 
 A sleek and responsive Flutter application for browsing movies, built with **Provider** for state management and integrated with the **TMDB API**.
 
-##  Features
 
-- **Home Screen**: Displays trending, popular, and upcoming movies in a visually appealing grid or list.
-- **Details Screen**: Shows synopsis, rating, release date, and more when a user taps a movie.
-- **TMDB API Integration**: Fetches real-time movie data from [The Movie Database (TMDB)](https://www.themoviedb.org/).
-- **Smooth Scroll Animations**: Enhances user experience with fluid transitions.
-- **Provider for State Management**: Efficient and maintainable data handling across screens.
+## ✨ Features
+- 🎬 **Browse Movies** – View trending, popular, and upcoming movies.
+- 📄 **Movie Details Page** – Detailed view with description, rating, and poster.
+- 🔄 **Smooth Scroll Animations** – Enhanced UI experience with transitions.
+- 🌐 **TMDB API Integration** – Real-time data fetching.
+- ⚡ **Optimized State Management** – Using Provider for reactive UI.
+
 
 ##  Tech Stack
 
