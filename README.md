@@ -18,6 +18,5 @@ A sleek and responsive Flutter application for browsing movies, built with **Pro
 - **HTTP** – Package for API calls.
 - **TMDB API** – Movie data source (requires API key).
 
-##  Project Structure
 
 
